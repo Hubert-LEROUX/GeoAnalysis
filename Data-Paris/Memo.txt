@@ -1,0 +1,1 @@
+jt -t oceans16 -tf merriserif -tfs 10 -nf ptsans -nfs 13 -cellw 90% -T -N -kl
